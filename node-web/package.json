@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "web",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,13 +7,13 @@
     "start": "node index",
     "deaf": "nodemon index"
   },
-  "author": "idan",
+  "author": "Aliyu",
   "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
   "dependencies": {
     "date-fns": "^2.30.0",
     "uuid": "^9.0.0"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.22"
   }
 }
