@@ -1,0 +1,2 @@
+2023-05-18		11:44:34,		 8afed53e-e6e6-468b-8192-0c4479fe714d,		 Error: not allow by CORS
+2023-05-18		11:44:34,		 5f16a4bb-389d-4539-b905-ec50ae44955e,		 Error: not allow by CORS

@@ -1,0 +1,82 @@
+[
+      
+{
+      "Title": "cohortOne",
+      "number": 6,
+      "location": "pegamut",
+      "duration": "6months",
+      "activities":{
+            "indoor": "whot",
+            "outdor": "football",
+            "funs": "happy hours"
+      },
+      "classes": "physical, Online"
+
+},
+{
+      "Title": "cohortTwo",
+      "number": 11,
+      "location": "pegamut",
+      "duration": "6months",
+      "activities":{
+            "indoor": "whot",
+            "outdor": "football",
+            "funs": "happy hours"
+      },
+      "classes": "physical, Online"
+
+},
+{
+      "Title": "cohortTwo",
+      "number": 12,
+      "location": "pegamut",
+      "duration": "6months",
+      "activities":{
+            "indoor": "whot",
+            "outdor": "football",
+            "funs": "happy hours"
+      },
+      "classes": "physical, Online"
+
+},
+{
+      "Title": "cohortTwo",
+      "number": 50,
+      "location": "pegamut",
+      "duration": "6months",
+      "activities":{
+            "indoor": "whot",
+            "outdor": "football",
+            "funs": "happy hours"
+      },
+      "classes": "physical, Online"
+
+},
+{
+      "Title": "cohortTwo",
+      "number": 23,
+      "location": "pegamut",
+      "duration": "6months",
+      "activities":{
+            "indoor": "whot",
+            "outdor": "football",
+            "funs": "happy hours"
+      },
+      "classes": "physical, Online"
+
+},
+{
+      "Title": "cohortThree",
+      "number": 100,
+      "location": "pegamut",
+      "duration": "6months",
+      "activities":{
+            "indoor": "whot",
+            "outdor": "football",
+            "funs": "happy hours"
+      },
+      "classes": "physical, Online"
+
+}
+
+]

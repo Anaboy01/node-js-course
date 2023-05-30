@@ -1,0 +1,19 @@
+2023-05-18		11:44:34,		 8afed53e-e6e6-468b-8192-0c4479fe714d,		 Error: not allow by CORS
+2023-05-18		11:44:34,		 5f16a4bb-389d-4539-b905-ec50ae44955e,		 Error: not allow by CORS
+2023-05-18		12:46:03,		 956c92de-75ef-4f8e-b21a-3a5d9259b669,		 Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\node-js-course\middlewear-router\views\test.html'
+2023-05-18		14:33:30,		 29446022-a7d0-4f87-aa07-d0a5ace1949d,		 Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\node-js-course\middlewear-router\routes\views\index.html'
+2023-05-18		14:33:41,		 8b0f1a0d-284e-4c3c-b2c3-ac6226583601,		 Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\node-js-course\middlewear-router\routes\views\index.html'
+2023-05-18		14:33:56,		 5e5d246b-e031-4326-818c-75360b603ec7,		 Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\node-js-course\middlewear-router\routes\views\index.html'
+2023-05-18		14:34:04,		 2c41fa4d-b664-4a16-9903-d6977247b789,		 Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\node-js-course\middlewear-router\routes\views\index.html'
+2023-05-18		14:34:13,		 0378b2a3-2a48-4790-b0d8-2da4853830d3,		 Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\node-js-course\middlewear-router\routes\views\index.html'
+2023-05-18		14:34:33,		 3fd1d3ca-63af-4afd-b14e-c7e6d427adc7,		 Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\node-js-course\middlewear-router\routes\views\index.html'
+2023-05-18		14:34:33,		 2e82c192-6307-41f0-89d5-4157ea1f3b61,		 Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\node-js-course\middlewear-router\routes\views\index.html'
+2023-05-18		14:34:33,		 9c23fff3-b031-4fb1-a150-0b35f130525c,		 Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\node-js-course\middlewear-router\routes\views\index.html'
+2023-05-18		14:34:33,		 26a8c081-f26a-4be7-9c62-4a994802e926,		 Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\node-js-course\middlewear-router\routes\views\index.html'
+2023-05-18		14:35:31,		 7c7fff44-5225-44a5-ab91-68582c8278c2,		 Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\node-js-course\middlewear-router\routes\views\index.html'
+2023-05-18		14:35:32,		 fabd9ad6-f712-4f94-8eef-b52e2750dbc2,		 Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\node-js-course\middlewear-router\routes\views\index.html'
+2023-05-18		14:35:32,		 f0394a7f-8e23-42c4-b462-5d6d5484988c,		 Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\node-js-course\middlewear-router\routes\views\index.html'
+2023-05-18		14:35:32,		 d44fc3d6-b2fe-45d2-afcf-7adedeb21e48,		 Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\node-js-course\middlewear-router\routes\views\index.html'
+2023-05-19		12:22:01,		 a4a67506-d3f5-480d-8b1d-b59142427025,		 ReferenceError: add is not defined
+2023-05-19		12:24:24,		 17e17820-a426-40b7-abb0-57c128462802,		 TypeError: data.data is not iterable
+2023-05-23		09:33:04,		 64f12f2d-3248-43fb-ada5-ffdacfbc4518,		 SyntaxError: Unexpected string in JSON at position 25
