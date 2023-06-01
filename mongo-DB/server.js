@@ -15,6 +15,7 @@ const verifyJWT = require("./middleware/verifyJWT");
 const cookieParser = require("cookie-parser");
 const credential = require("./middleware/credential");
 const connectDB = require("./config/dbConnect")
+require("dotenv").config();
 
 
 
